@@ -109,3 +109,5 @@ E:\Coforge\CoforgeTraining\DAY50\Assessment_Dec\Assessment_Dec\obj\Debug\netcore
 E:\Coforge\CoforgeTraining\DAY50\Assessment_Dec\Assessment_Dec\obj\Debug\netcoreapp3.1\Assessment_Dec.pdb
 E:\Coforge\CoforgeTraining\DAY50\Assessment_Dec\Assessment_Dec\obj\Debug\netcoreapp3.1\Assessment_Dec.genruntimeconfig.cache
 E:\Coforge\CoforgeTraining\DAY50\Assessment_Dec\Assessment_Dec\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\Coforge\CoforgeTraining\DAY50\Assessment_Dec\Assessment_Dec\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\Coforge\CoforgeTraining\DAY50\Assessment_Dec\Assessment_Dec\obj\Debug\netcoreapp3.1\Razor\Views\Student\Display.cshtml.g.cs
